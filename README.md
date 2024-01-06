@@ -1,7 +1,5 @@
 # Digital Logic
 
---------
-
 chapter 1
 
 -------
