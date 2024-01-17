@@ -1,35 +1,3 @@
 # Digital Logic
 
-chapter 1
-
--------
-
-chapter 2
-
--------
-
-chapter 3
-
-----------
-
-chapter 4
-
---------
-
-chapter 5
-
----------
-
-chapter 6
-
----------
-
-chapter 7
-
---------
-
-chapter 8
-
---------
-
-chapter 9
+throughout the study of this subject, I have learned many things related to the algorithm for machines. I also learn how to use a deed and make a project about the system of lift.
